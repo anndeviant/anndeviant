@@ -2,7 +2,7 @@
  
 Perkenalkan nama saya **Annas Sovianto**.<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/annassovianto)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/annassovianto) ku ya.
  
 ### Github Statistic
 <p align="left">
