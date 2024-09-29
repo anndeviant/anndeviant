@@ -1,8 +1,8 @@
-# Hello Everyone!🐈🐈🐈
+# Hello Everyone!🐈
  
-Perkenalkan nama saya **Annas Sovianto**.<br>
+Ore? **Annas Sovianto** desu..<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/annassovianto) ku ya.
+Feel free to check and connect [Linkedin](https://www.linkedin.com/in/annassovianto).
  
 ### Github Statistic
 <p align="left">
