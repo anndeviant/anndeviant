@@ -5,7 +5,7 @@ Ore? **Annas Sovianto** desu..🌟
 📚 Exploring AI & Full-Stack Development<br>
 💡 Open to Collaboration and Knowledge Sharing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/annas.svnt_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/annassovianto) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@annassovianto) 
 
 Feel free to check and connect with me on [Linkedin](https://www.linkedin.com/in/annassovianto) to network, collaborate, or just say Hello!
  
