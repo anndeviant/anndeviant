@@ -1,5 +1,5 @@
 # Hello Everyone!🐈
-I'm **Annas Sovianto** 🌟
+Ore? **Annas Sovianto** desu..🌟
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. I enjoy exploring new projects and sharing my work with the community. <br>
 Feel free to check and connect with me on [Linkedin](https://www.linkedin.com/in/annassovianto) to network, collaborate, or just say Hello!
