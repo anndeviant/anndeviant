@@ -1,7 +1,10 @@
 # Hello Everyone!🐈
 Ore? **Annas Sovianto** desu..🌟
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. I enjoy exploring new projects and sharing my work with the community. <br>
+🎓 Student at Informatics Major<br>
+📚 Exploring AI & Full-Stack Development<br>
+💡 Open to Collaboration and Knowledge Sharing
+
 Feel free to check and connect with me on [Linkedin](https://www.linkedin.com/in/annassovianto) to network, collaborate, or just say Hello!
  
 ### Github Statistic
