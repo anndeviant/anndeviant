@@ -1,4 +1,4 @@
-# Hello Tech, (GMT+7)!
+# Hello Tech Enthusiasts!
 Ore? **Annas Sovianto** desu.. 🌟<br>
 ├─ 🎓 Student at Informatics Major<br>
 ├─ 📚 Exploring AI & Full-Stack Development<br>
