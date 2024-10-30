@@ -9,11 +9,15 @@ Ore? **Annas Sovianto** desu.. 🌟<br>
 
 ### 🤖 Github Statistics
 <p align="left">
-<a href="https://github.com/anndeviant">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=anndeviant&theme=dark&hide_border=false"/><br>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anndeviant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndeviant&theme=algolia&text_color=ffffff&hide_border=false&layout=compact"/>
-</a>
+  <a href="https://github.com/anndeviant">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anndeviant&theme=dark&hide_border=false"/><br>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anndeviant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br>
+  </a>
 </p>
 
 ### 🚀 Tech Proficiencies
+<p align="left">
+  <a href="https://github.com/anndeviant">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndeviant&theme=algolia&text_color=ffffff&hide_border=false&layout=compact"/>
+  </a>
+</p>
