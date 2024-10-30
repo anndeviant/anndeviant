@@ -1,4 +1,4 @@
-# Hello Everyone!🐈
+# Hello Everyone!
 Ore? **Annas Sovianto** desu..🌟<br>
 ├─ 🎓 Student at Informatics Major<br>
 ├─ 📚 Exploring AI & Full-Stack Development<br>
