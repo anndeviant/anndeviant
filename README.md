@@ -1,8 +1,7 @@
 # Hello Everyone!🐈
- 
-Ore? **Annas Sovianto** desu..<br>
- 
-Feel free to check and connect [Linkedin](https://www.linkedin.com/in/annassovianto).
+I'm Annas Sovianto 🌟
+Welcome to my GitHub profile! I'm passionate about technology, coding, and continuous learning. I enjoy exploring new projects and sharing my work with the community.
+Feel free to check and connect with me on [Linkedin](https://www.linkedin.com/in/annassovianto) to network, collaborate, or just say Hello!
  
 ### Github Statistic
 <p align="left">
