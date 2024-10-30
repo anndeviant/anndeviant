@@ -5,6 +5,8 @@ Ore? **Annas Sovianto** desu..🌟
 📚 Exploring AI & Full-Stack Development<br>
 💡 Open to Collaboration and Knowledge Sharing
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a)
+
 Feel free to check and connect with me on [Linkedin](https://www.linkedin.com/in/annassovianto) to network, collaborate, or just say Hello!
  
 ### Github Statistic
