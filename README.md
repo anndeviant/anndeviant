@@ -5,7 +5,7 @@ Ore? **Annas Sovianto** desu..🌟<br>
 └─ 💡 Open to Collaboration and Knowledge Sharing
 
 ### 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF5733.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/annas.svnt_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/annassovianto) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@annassovianto) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23A3218D.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/annas.svnt_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/annassovianto) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@annassovianto) 
  
 ### Github Statistic
 <p align="left">
