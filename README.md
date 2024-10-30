@@ -10,7 +10,8 @@ Ore? **Annas Sovianto** desu.. 🌟<br>
 ### 🤖 Github Statistics
 <p align="left">
 <a href="https://github.com/anndeviant">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anndeviant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/><br>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=anndeviant&theme=dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anndeviant&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anndeviant&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </p>
