@@ -4,7 +4,7 @@ Ore? **Annas Sovianto** desu.. 🌟<br>
 ├─ 📚 Exploring AI & Full-Stack Development<br>
 └─ 💡 Open to Collaboration and Knowledge Sharing
 
-<div style="width: 50%; margin: auto; border: 1px solid #ccc;"></div>
+<div style="width: 50%; margin: auto; border: 1px solid white;"></div>
 
 ### 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23CB2C90.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/annas.svnt_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/annassovianto) [![Medium](https://img.shields.io/badge/Medium-232324?logo=medium&logoColor=white)](https://medium.com/@annassovianto) 
