@@ -24,3 +24,5 @@ Ore? **Annas Sovianto** desu.. 🌟<br>
     </div>
   </a>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=asd&icon=0&color=0)](https://visitcount.itsvg.in)
