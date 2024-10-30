@@ -24,4 +24,5 @@ Ore? **Annas Sovianto** desu.. 🌟<br>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+### ⚡ Viewers
 [![](https://visitcount.itsvg.in/api?id=asd&icon=0&color=0)](https://visitcount.itsvg.in)
